@@ -1,3 +1,3 @@
 # basic-appointment-booker
 
-The readme file
+The readme file for the app
